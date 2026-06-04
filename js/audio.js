@@ -2,7 +2,7 @@
 
 // 音乐列表数据
 const musicList = [
-    { id: 0, title: '洛春赋', author: '云汐', src: './audio/music0.mp3', recordImg: './img/record0.jpg', bgImg: './img/bg0.png' },
+    { id: 0, title: '24215220234黄贤臻', author: '云汐', src: './audio/music0.mp3', recordImg: './img/record0.jpg', bgImg: './img/bg0.png' },
     { id: 1, title: 'Yesterday', author: 'The Beatles', src: './audio/music1.mp3', recordImg: './img/record1.jpg', bgImg: './img/bg1.png' },
     { id: 2, title: '江南烟雨色', author: '杨树人', src: './audio/music2.mp3', recordImg: './img/record2.jpg', bgImg: './img/bg2.png' },
     { id: 3, title: 'Vision pt.II', author: 'Lost Sky', src: './audio/music3.mp3', recordImg: './img/record3.jpg', bgImg: './img/bg3.png' }
